@@ -395,7 +395,8 @@ myGLCD.clrScr();
     }
    
     myGLCD.print(String(setminstemp),0,20);  myGLCD.update();
-  
+    
+   setmins();
 }
 
 
