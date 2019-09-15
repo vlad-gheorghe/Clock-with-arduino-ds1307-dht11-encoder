@@ -12,3 +12,5 @@ https://vlad-gheorghe.blogspot.ro/2017/10/ceas-cu-afisare-pe-nokia-si-reglaj.htm
 original from http://www.instructables.com/id/Arduino-Watch-Sport/
 
 encoder from http://nicuflorica.blogspot.ro/2015/01/ceas-rtc-cu-ds1307-si-date-mediu-cu.html
+
+![poza](https://github.com/vlad-gheorghe/Clock-with-arduino-ds1307-dht11-encoder/blob/master/IMAG0585.jpg)
